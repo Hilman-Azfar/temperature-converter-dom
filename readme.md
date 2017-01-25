@@ -35,6 +35,8 @@ is provided for you, with empty HTML and CSS files.
   * images
   * colors
   * borders
+  
+5. Allow the conversion to happened once you typed on the text field, without clicking the submit button
 
 ##Deliverables
 See the screenshot below for an example. Don't feel like you need to do it exactly
